@@ -1,2 +1,4 @@
-1. use ADO.NET 
-2. Use Transaction in ADO.NET
+CRUD Operation and Transaction 
+  using:-
+    1. ADO.NET
+    2. Dapper
